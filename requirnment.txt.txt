@@ -1,0 +1,12 @@
+numpy
+pandas
+matplotlib.pyplot
+seaborn 
+joblib
+%matplotlib inline
+
+streamlit
+os
+datetime
+
+
